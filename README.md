@@ -28,9 +28,5 @@ I work with:
 - Dark/Light mode toggle 🌙☀️
 - Live project previews and links 🔗
 
-## 🛠️ How to Run Locally
 
-```bash
-git clone https://github.com/your-username/portfolio-website.git
-cd portfolio-website
-open index.html (or run using Live Server in VS Code)
+
